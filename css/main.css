@@ -24,3 +24,7 @@ figure {
 .img-flex {
   width: 100%;
 }
+
+body {
+  margin: 0;
+}
